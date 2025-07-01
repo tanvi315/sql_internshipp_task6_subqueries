@@ -1,0 +1,2 @@
+# sql_internshipp_task6_subqueries
+subqueries
